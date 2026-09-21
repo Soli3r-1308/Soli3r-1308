@@ -1,7 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
 <div align="center">
 
 # 👋 Hi, I'm Jhair Junior Maldonado Quintana
@@ -11,7 +7,7 @@ A brief description of what this project does and who it's for
 > *"Building scalable solutions through clean architecture, secure integrations and continuous learning."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhair%20Maldonado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
-[![GitHub](https://img.shields.io/badge/GitHub-Jhair--Maldonado-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soli3r-1308)
+[![GitHub](https://img.shields.io/badge/GitHub-Soli3r--1308-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soli3r-1308)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhairmaldonadoquintana@gmail.com)
 
 </div>
@@ -22,18 +18,15 @@ A brief description of what this project does and who it's for
 
 I'm a **Systems Engineering student at Universidad Tecnológica del Perú (UTP)**, currently in my 9th academic cycle.
 
-My main interests are **backend development, database design, software architecture and artificial intelligence integration**.
+I enjoy building software that solves real-world problems, with a focus on:
 
-I enjoy building software solutions that solve real-world problems, especially systems involving:
+* **Backend development** and REST APIs
+* **Authentication and role-based access control (RBAC)**
+* **Database design**, including cloud databases
+* **Scalable and maintainable architectures**
+* **AI integration**: contextual assistants, prompt engineering, backend validation of AI-generated requests, and secure handling of sensitive information
 
-* Backend development and REST APIs
-* Authentication and role-based access control
-* Database design and cloud databases
-* AI integrations and contextual assistants
-* Secure handling of information
-* Scalable and maintainable architectures
-
-Currently, I'm strengthening my skills in **Java, Spring Boot, software architecture, security and AI-powered systems**.
+My goal is to combine **backend development, security and AI** to build smarter and more efficient software systems.
 
 ---
 
@@ -50,60 +43,42 @@ Currently, I'm strengthening my skills in **Java, Spring Boot, software architec
 
 ---
 
-## 🤖 Artificial Intelligence & Integrations
-
-One of my main areas of interest is integrating artificial intelligence into traditional software architectures.
-
-I have worked with:
-
-* AI APIs integrated into web applications
-* Contextual assistants and prompt engineering
-* Role-aware AI interactions
-* Backend validation of AI-generated requests
-* Secure handling and masking of sensitive information
-* AI-assisted business process analysis
-
-My goal is to combine **backend development, security and AI** to build smarter and more efficient software systems.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎓 CORAULA — Academic Management System
 
-Academic management platform designed to support students, teachers and institutional processes.
-
-**Main areas:**
+Academic management platform designed to support students, teachers and institutional processes, including biometric attendance verification.
 
 `Java` · `Spring Boot` · `React` · `Authentication` · `RBAC` · `Biometrics` · `Database Design`
 
-➡️ [View CORAULA](https://github.com/Jhair-Maldonado/CORAULA-FRONT)
+<!-- TODO: verifica que este link apunte a tu repositorio real -->
+➡️ [View CORAULA](https://github.com/Soli3r-1308/CORAULA-FRONT)
+
+<!-- Opcional: agrega una captura o GIF
+<img src="ruta/a/captura.png" alt="CORAULA screenshot" width="600" />
+-->
 
 ---
 
 ### 🛒 SIVI — Integrated Sales & Inventory System
 
-Web application for managing sales, inventory, purchases, users and business reports.
-
-The system includes authentication with JWT and an integrated **AI assistant**.
-
-**Main areas:**
+Web application for managing sales, inventory, purchases, users and business reports. Includes JWT authentication and an integrated **AI assistant**.
 
 `React` · `REST API` · `JWT` · `Inventory Management` · `AI Integration`
 
-➡️ [View SIVI]()
+<!-- TODO: reemplaza el link -->
+➡️ [View SIVI](https://github.com/Soli3r-1308/NOMBRE-DEL-REPO)
 
 ---
 
 ### 🤝 NGO Management System
 
-Administrative platform created to manage expenses, donations and volunteers.
-
-**Main areas:**
+Administrative platform to manage expenses, donations and volunteers.
 
 `React` · `PostgreSQL` · `Cloud Databases` · `Administrative Management`
 
-➡️ [View Project]()
+<!-- TODO: reemplaza el link -->
+➡️ [View Project](https://github.com/Soli3r-1308/NOMBRE-DEL-REPO)
 
 ---
 
@@ -111,13 +86,23 @@ Administrative platform created to manage expenses, donations and volunteers.
 
 <div align="center">
 
-<!-- Tarjeta de Estadísticas usando Vercel (Más estable) -->
-![Jhair Maldonado GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhair-Maldonado&theme=catppuccin&show_icons=true&hide_border=true)
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Soli3r-1308&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soli3r-1308&layout=compact&hide_border=true&theme=tokyonight" />
 
 <br/>
 
-<!-- Animación del Snake -->
-![Snake animation](https://raw.githubusercontent.com/Jhair-Maldonado/Jhair-Maldonado/output/github-contribution-grid-snake.svg)
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Soli3r-1308&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+<img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Soli3r-1308&theme=tokyo-night&hide_border=true" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soli3r-1308/Soli3r-1308/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Soli3r-1308/Soli3r-1308/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -126,23 +111,15 @@ Administrative platform created to manage expenses, donations and volunteers.
 ## 🎯 Currently Focused On
 
 * ☕ Improving my **Java & Spring Boot** skills
-* 🏗️ Learning more about **Clean Architecture and Hexagonal Architecture**
-* 🔐 Strengthening my knowledge of **API security and authentication**
-* 🗄️ Improving **database design and optimization**
+* 🏗️ Learning **Clean Architecture and Hexagonal Architecture**
+* 🔐 Strengthening **API security and authentication**
 * 🤖 Building better **AI-integrated applications**
-* 🧪 Applying testing and clean code practices
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-I'm open to collaborating on projects related to **backend development, software engineering and artificial intelligence integrations**.
-
-📧 **Email:** [jhairmaldonadoquintana@gmail.com](mailto:jhairmaldonadoquintana@gmail.com)
-💼 **LinkedIn:** [Jhair Junior Maldonado Quintana](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
-💻 **GitHub:** [Jhair-Maldonado](https://github.com/Soli3r-1308)
-
----
+I'm open to collaborating on projects related to **backend development, software engineering and AI integrations**. You can reach me through the badges at the top of this page.
 
 <div align="center">
 
