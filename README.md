@@ -1,3 +1,7 @@
+# Project Title
+
+A brief description of what this project does and who it's for
+
 <div align="center">
 
 # 👋 Hi, I'm Jhair Junior Maldonado Quintana
@@ -6,9 +10,9 @@
 
 > *"Building scalable solutions through clean architecture, secure integrations and continuous learning."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhair%20Maldonado-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
-[![GitHub](https://img.shields.io/badge/GitHub-Jhair--Maldonado-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Jhair-Maldonado)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jhairmaldonadoquintana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhair%20Maldonado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
+[![GitHub](https://img.shields.io/badge/GitHub-Jhair--Maldonado-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soli3r-1308)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhairmaldonadoquintana@gmail.com)
 
 </div>
 
@@ -36,34 +40,13 @@ Currently, I'm strengthening my skills in **Java, Spring Boot, software architec
 ## 🛠 Tech Stack
 
 ### Backend & Databases
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42"/>
-</p>
+[![Backend](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,supabase)](https://skillicons.dev)
 
 ### Frontend & UI
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/>
-</p>
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,angular,html,css)](https://skillicons.dev)
 
 ### Tools & Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="42" height="42"/>
-</p>
+[![Tools](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ---
 
@@ -108,7 +91,7 @@ The system includes authentication with JWT and an integrated **AI assistant**.
 
 `React` · `REST API` · `JWT` · `Inventory Management` · `AI Integration`
 
-➡️ [View SIVI](https://github.com/Jhair-Maldonado/SIVI_FRONT)
+➡️ [View SIVI]()
 
 ---
 
@@ -120,15 +103,21 @@ Administrative platform created to manage expenses, donations and volunteers.
 
 `React` · `PostgreSQL` · `Cloud Databases` · `Administrative Management`
 
-➡️ [View Project](https://github.com/Jhair-Maldonado/ONG-SISTEM)
+➡️ [View Project]()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=Jhair-Maldonado&theme=catppuccin" alt="Jhair Maldonado GitHub Stats"/>
+<!-- Tarjeta de Estadísticas usando Vercel (Más estable) -->
+![Jhair Maldonado GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhair-Maldonado&theme=catppuccin&show_icons=true&hide_border=true)
+
+<br/>
+
+<!-- Animación del Snake -->
+![Snake animation](https://raw.githubusercontent.com/Jhair-Maldonado/Jhair-Maldonado/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -150,10 +139,8 @@ Administrative platform created to manage expenses, donations and volunteers.
 I'm open to collaborating on projects related to **backend development, software engineering and artificial intelligence integrations**.
 
 📧 **Email:** [jhairmaldonadoquintana@gmail.com](mailto:jhairmaldonadoquintana@gmail.com)
-
 💼 **LinkedIn:** [Jhair Junior Maldonado Quintana](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
-
-💻 **GitHub:** [Jhair-Maldonado](https://github.com/Jhair-Maldonado)
+💻 **GitHub:** [Jhair-Maldonado](https://github.com/Soli3r-1308)
 
 ---
 
